@@ -2,5 +2,5 @@
 some text
 
 ## Local Development
- - [] Open index.html in your browser.
- have fun.
+ - [ ] Open index.html in your browser.
+ - have fun.
